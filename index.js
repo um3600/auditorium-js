@@ -7,7 +7,7 @@ var audi = [
 
 for (var i = "i"; i;) {
 
-    var booked = 0;
+    var booked = "";
 
     for (var i = 0; i < audi.length; i++) {
         for (var j = 0; j < audi[i].length; j++) {
